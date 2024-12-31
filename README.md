@@ -5,7 +5,6 @@
 ## Note
 
 - This repo contains only the backend code.
-- `node_modules` is not included due to my internet speed and its large size - run `npm install` to get all dependencies before trying to run the code.
 - You'll need MongoDB installed and running on your system.
 - Make sure you have the latest Node.js installed.
 
